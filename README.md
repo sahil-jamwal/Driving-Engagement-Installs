@@ -6,9 +6,10 @@ As an intern in the Business Analytics team, the objective of this project is to
 ## Data Exploration
 The dataset consists of multiple tables, each providing valuable information about different aspects of user behavior and marketing campaigns. Key variables such as "New users," "Engagement rate," "Engaged sessions per user," and others have been used for analysis. Data cleaning and preprocessing have been performed to handle missing values and format the data for analysis.
 ![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/6d8603ca-b556-4d61-9c25-2a3e5ddd9356)
+Description: This visualization shows the number of new users acquired from each default channel group, providing insights into the effectiveness of different acquisition channels. The "Display" channel stands out as the most successful channel for user acquisition, while other channels can be further analyzed for optimization.
 
 ![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/e8257aa4-92fa-4916-82f9-a168fbe8786e)
-
+Description: This visualization displays the engagement rate for each default channel group, helping to identify which channels have the highest user engagement. The "Organic Search" channel stands out as the most engaging channel, indicating its effectiveness in keeping users interested and involved.
 
 
 ## Descriptive Analysis
@@ -20,7 +21,7 @@ Analysis of user behavior based on regions, customer demographics, and product a
 ## Marketing Campaign Analysis
 The effectiveness of past marketing campaigns has been evaluated. Campaign metrics such as conversion rates and ROI have been analyzed to identify successful campaigns and areas for improvement.
 ![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/b1863333-5ad0-419c-8d3e-440a9a0af51a)
-
+Description: This visualization highlights the top 5 events that are most frequently triggered by users, indicating which events are highly engaging. Events like "notification_dismiss," "notification_receive," and "screen_view" are the most encountered by users, making them essential areas for further optimization.
 
 ## Insights and Recommendations
 
