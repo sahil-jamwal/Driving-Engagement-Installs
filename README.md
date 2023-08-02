@@ -5,6 +5,11 @@ As an intern in the Business Analytics team, the objective of this project is to
 
 ## Data Exploration
 The dataset consists of multiple tables, each providing valuable information about different aspects of user behavior and marketing campaigns. Key variables such as "New users," "Engagement rate," "Engaged sessions per user," and others have been used for analysis. Data cleaning and preprocessing have been performed to handle missing values and format the data for analysis.
+![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/6d8603ca-b556-4d61-9c25-2a3e5ddd9356)
+
+![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/e8257aa4-92fa-4916-82f9-a168fbe8786e)
+
+
 
 ## Descriptive Analysis
 Exploratory data analysis has been conducted to gain insights into the dataset. We have identified sales trends, patterns, and outliers across various channels and user demographics. Visualizations in the form of charts and graphs have been used to present the findings effectively.
@@ -14,8 +19,16 @@ Analysis of user behavior based on regions, customer demographics, and product a
 
 ## Marketing Campaign Analysis
 The effectiveness of past marketing campaigns has been evaluated. Campaign metrics such as conversion rates and ROI have been analyzed to identify successful campaigns and areas for improvement.
+![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/b1863333-5ad0-419c-8d3e-440a9a0af51a)
+
 
 ## Insights and Recommendations
+
+![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/49a3c6ed-8fcd-4174-9960-39439e49eba9)
+
+![image](https://github.com/sahil-jamwal/Driving-Engagement-Installs/assets/120573909/030df4b9-a55f-4a75-b6e1-10f63bb48c35)
+
+
 Based on the analysis, the following key insights have been discovered:
 
 1. The "Display" channel attracts the highest number of new users, making it an essential channel for user acquisition.
